@@ -1,4 +1,8 @@
 touch up_to_date
+git add .
+git commit 
+git push
+git pull
 
 
 
